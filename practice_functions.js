@@ -37,4 +37,5 @@ class Clock {
       this.printTime();
 };
 };
-const clock = new Clock();
+// const clock = new Clock();
+
